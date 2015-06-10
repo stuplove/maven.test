@@ -1,0 +1,14 @@
+/build
+
+
+# Eclipse file
+/.project
+/.settings
+/opt/
+/.classpath
+
+# Sublime file
+/.sublime-project
+
+# Mac OS
+.DS_Store
