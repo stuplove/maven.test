@@ -1,14 +1,17 @@
 /build
 
-
 # Eclipse file
-/.project
-/.settings
-/opt/
-/.classpath
+.classpath
+.metadata
+.project
+.settings
 
 # Sublime file
 /.sublime-project
 
 # Mac OS
 .DS_Store
+
+# maven target
+target/
+.war
